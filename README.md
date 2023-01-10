@@ -1,6 +1,6 @@
                                 Things Changing Everyday!!!
 
-                                * Hello Everyone, I'm Taj Bist.
+                                :computer: * Hello Everyone, I'm Taj Bist. :computer:
 
-                                * I'm a Software Engineer.
+                                * I'm a Software Engineer. :sunny: 
 
